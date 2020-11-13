@@ -21,3 +21,9 @@
 * [operator-framework](https://github.com/operator-framework/operator-lifecycle-manager)
 * [operatorhub](https://operatorhub.io)
 * [lens](https://k8slens.dev/)
+* [Pulumi's Infrastructure as Code SDK ](https://github.com/pulumi/pulumi)
+
+# ddd
+
+* [citerus ddsample-core](https://github.com/citerus/dddsample-core)
+  * [ddd sample 2.0](https://citerus.github.io/dddsample-core/2015/03/08/setting-up-the-dddsample-blog.html)
